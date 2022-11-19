@@ -3,7 +3,7 @@ layout: post
 title: "eLearnSecurity Certified Penetration Tester eXtreme (eCPTXv2) Review"
 date: 2022-11-19
 categories: CATEGORY-1 CATEGORY-2
-permalink: /_posts/
+permalink: /_posts/eCPTXv2_review
 ---
 
 The following is a review of the eLearnSecurity course ‘Advanced Penetration Testing’ and the exam for the ‘eLearnSecurity Penetration Tester eXtreme’ (eCPTXv2) certification exam.

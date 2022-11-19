@@ -37,8 +37,8 @@ So here is the part that everyone has been waiting for, I won't give you any spo
 Furthermore, I would recommend that you have some experience with dealing with assembly and low-level programming before getting started (not much but some). For me, the eLearnSecurity Certified Exploit Developer (eCXD) was an awesome addition and was a fun way of learning assembly. Also, stuff like HTB and articles online are a huge help to get an understanding of what to expect and how to prepare I have linked some resources below that might help you. If you need some additional practice try using Metasploit to create some payloads for you to get your hands dirty.
 
 # Resources
-Practical Malware Analysis - [https://nostarch.com/malware](https://nostarch.com/malware)
-[https://www.sans.org/posters/malware-analysis-tips-tricks-poster/](https://www.sans.org/posters/malware-analysis-tips-tricks-poster/)
-[https://malgamy.github.io/categories/#malware-analysis](https://malgamy.github.io/categories/#malware-analysis)
-[https://www.varonis.com/blog/yara-rules](https://www.varonis.com/blog/yara-rules)
-[https://github.com/Yara-Rules/rules](https://github.com/Yara-Rules/rules)
+- Practical Malware Analysis - [https://nostarch.com/malware](https://nostarch.com/malware)
+- [https://www.sans.org/posters/malware-analysis-tips-tricks-poster/](https://www.sans.org/posters/malware-analysis-tips-tricks-poster/)
+- [https://malgamy.github.io/categories/#malware-analysis](https://malgamy.github.io/categories/#malware-analysis)
+- [https://www.varonis.com/blog/yara-rules](https://www.varonis.com/blog/yara-rules)
+- [https://github.com/Yara-Rules/rules](https://github.com/Yara-Rules/rules)

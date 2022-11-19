@@ -1,18 +1,37 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+HackingLikeARockstar@Truesec
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+# Certifications
+## Giac
+- GCFA 
+## Hack The Box
+### Pro Labs
+- Offshore
+- Dante
+## eLearnSecurity
+- eCMAPv1
+- eCPTXv2
+- eCXD
+- eCTHPv2
+- eCDFP
+- eCIR
+- eNDP
+- eCPPTv2
+- eWPT
+- eMAPT
+- eJPT
+## Pentester Academy
+- CARTP
+- CRTP
+# CVEs
+## Reprise License Manager
+- CVE-2021-44151
+- CVE-2021-44152
+- CVE-2021-44153
+- CVE-2021-44154
+- CVE-2021-44155

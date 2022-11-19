@@ -47,7 +47,7 @@ If you do the above as well as take good notes on the different attacks and tool
 All in all, I really enjoyed the journey this course put me on, it is a shame that the course leaves something to be desired but prepping and taking the exam was awesome and I learned a ton! … oh yeah and maybe know some .NET *wink*
 
 # Resources:
-[https://h4ms1k.github.io/Red_Team_Active_Directory/#](https://h4ms1k.github.io/Red_Team_Active_Directory/#)
-[https://github.com/0xJs/CRTE-Cheatsheet](https://github.com/0xJs/CRTE-Cheatsheet)
-[https://philkeeble.com/certification/PentesterAcademy-Red-Team-Labs-Review/](https://philkeeble.com/certification/PentesterAcademy-Red-Team-Labs-Review/)
-[https://huskyhacks.dev/2021/03/20/ecptx/#:~:text=eCPTX has incredible course material,take you the free retake](https://huskyhacks.dev/2021/03/20/ecptx/#:~:text=eCPTX%20has%20incredible%20course%20material,take%20you%20the%20free%20retake).
+- [https://h4ms1k.github.io/Red_Team_Active_Directory/#](https://h4ms1k.github.io/Red_Team_Active_Directory/#)
+- [https://github.com/0xJs/CRTE-Cheatsheet](https://github.com/0xJs/CRTE-Cheatsheet)
+- [https://philkeeble.com/certification/PentesterAcademy-Red-Team-Labs-Review/](https://philkeeble.com/certification/PentesterAcademy-Red-Team-Labs-Review/)
+- [https://huskyhacks.dev/2021/03/20/ecptx/#:~:text=eCPTX has incredible course material,take you the free retake](https://huskyhacks.dev/2021/03/20/ecptx/#:~:text=eCPTX%20has%20incredible%20course%20material,take%20you%20the%20free%20retake).

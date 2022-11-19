@@ -28,7 +28,7 @@ twitter_username: n/a
 github_username:  0xOvid
 
 # Build settings
-theme: Hitchens
+theme: hacker
 plugins:
   - jekyll-feed
 

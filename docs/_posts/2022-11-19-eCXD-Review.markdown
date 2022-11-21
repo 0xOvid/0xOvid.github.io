@@ -33,7 +33,6 @@ As hinted above this is one of the better and more updated of eLearnSecuritys of
 The exam is a series of challenges both windows and Linux where you are tasked with exploiting different files under different circumstances. Without spoiling anything, if you have done the labs one or two times and maybe some challenges on HTB, read the corelan tutorials, and done ROPemporium you should be ready to take on the exam. It is an interesting challenge forcing you to be creative in your problem-solving and googling! For some general hints on binary exploitation I have added some notes and resources below, this is by no means an exhaustive list but it should get you going! Happy hacking!
 
 ## Exploit Structure
-
 ### Windows Basic
 
 ```jsx

@@ -58,4 +58,10 @@ It might be worthwhile thinking of exploitation as an equation where you have di
   - Superb guide on pivoting (I like chisel!) https://ap3x.github.io/posts/pivoting-with-chisel/
   - Other people's reviews!
 
+# Final Thoughts
 So that conclusion, good stuff from eLearnSecurity but take care to not get overwhelmed and stuck in the mire of details of this course, read some write-ups of medium and easy HTB boxes and get come experience on HTB, tryHackMe etc. and you will be certified in no time!
+
+# References
+- https://www.corelan.be/
+- https://book.hacktricks.xyz/
+- https://ap3x.github.io/posts/pivoting-with-chisel/

@@ -34,3 +34,23 @@ If you are looking for recommendations on how best to approach this course using
 eCXD -> eCMAP -> eCRE
 
 #References
+- https://medium.com/@sharonlin/useful-registers-in-assembly-d9a9da22cdd9
+- https://www.tutorialspoint.com/assembly_programming/assembly_registers.htm
+- https://stackoverflow.com/questions/8629188/asm-interpreter-how-are-local-variables-stored
+- https://en.wikibooks.org/wiki/X86_Assembly/X86_Architecture![image](https://user-images.githubusercontent.com/117951172/223400904-8e27822f-fb09-47dd-9d4e-ce45f937fa6e.png)
+- http://www.c-jump.com/CIS77/ASM/Instructions/I77_0070_eflags_bits.htm![image](https://user-images.githubusercontent.com/117951172/223400955-5b030419-e91c-427b-9feb-8de8ae974c7f.png)
+- https://www.cs.virginia.edu/~evans/cs216/guides/x86.html![image](https://user-images.githubusercontent.com/117951172/223400985-6087322b-d604-4036-bef2-ec8e99727572.png)
+- https://www.cs.virginia.edu/~evans/cs216/guides/x86.html![image](https://user-images.githubusercontent.com/117951172/223401009-966d9593-a9b9-4406-b25e-eb1a09963e10.png)
+- https://learn.microsoft.com/en-us/windows/win32/api/winnt/ns-winnt-context![image](https://user-images.githubusercontent.com/117951172/223401047-4f639b5b-c284-4344-8eb9-1d179ecb6a10.png)
+- https://en.wikibooks.org/wiki/X86_Disassembly/Functions_and_Stack_Frames
+- https://en.wikibooks.org/wiki/X86_Disassembly/The_Stack![image](https://user-images.githubusercontent.com/117951172/223401148-2dbfc231-7e92-4af3-9b76-e7c296550a0f.png)
+- https://stackoverflow.com/questions/4292447/does-the-ret-instruction-add-4-to-esp-register![image](https://user-images.githubusercontent.com/117951172/223401181-8405861a-08fd-4294-860c-8cd843641118.png)
+- https://en.wikibooks.org/wiki/X86_Disassembly/Calling_Conventions![image](https://user-images.githubusercontent.com/117951172/223401223-7fb78811-ea96-44fc-8fc9-d75fa624be37.png)
+- https://learn.microsoft.com/en-us/windows/win32/api/winnt/ns-winnt-context![image](https://user-images.githubusercontent.com/117951172/223401251-a5119bbc-a13d-484e-85f4-92ae25ba24ea.png)
+- https://unprotect.it/technique/ntglobalflag/![image](https://user-images.githubusercontent.com/117951172/223401285-8508efd3-6d43-4ce8-82f3-f074e633d5eb.png)
+- https://blog.kowalczyk.info/articles/pefileformat.html![image](https://user-images.githubusercontent.com/117951172/223401360-ded1c602-9066-418f-9abd-572cd7c9baa9.png)
+- http://www.sunshine2k.de/reversing/tuts/tut_rvait.htm![image](https://user-images.githubusercontent.com/117951172/223401427-91d9bba4-918c-4eb7-97dd-7f1ecd4c0c34.png)
+- https://www.aldeid.com/wiki/PEB-Process-Environment-Block/BeingDebugged![image](https://user-images.githubusercontent.com/117951172/223401457-2b106ec0-a823-44fb-bcf8-983bd402150e.png)
+- http://www.jasinskionline.com/windowsapi/ref/c/createtoolhelp32snapshot.html![image](https://user-images.githubusercontent.com/117951172/223401536-fa362d40-0191-4fae-8964-f06d9a2a5c80.png)
+- https://kobzol.github.io/davis/
+- https://archive.org/details/lena151

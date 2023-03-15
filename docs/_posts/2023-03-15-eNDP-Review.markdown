@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "eLearnSecurity Network Defense Professional (eNDP) Review"
-date: 2022-11-19
+date: 2023-03-15
 categories: CATEGORY-1 CATEGORY-2
 permalink: /_posts/eNDP_review
 ---

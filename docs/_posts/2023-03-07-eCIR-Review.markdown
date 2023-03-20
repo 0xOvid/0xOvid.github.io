@@ -23,3 +23,4 @@ Overall I was very happy with the course and its content, it is a great starting
 
 # References
 - https://dsxte2q2nyjxs.cloudfront.net/Syllabus_IHRPv1.pdf
+- https://drive.google.com/file/d/1r8i4xzK5AGaOdF0BWBOXV8t2jbsvwtDy/view
